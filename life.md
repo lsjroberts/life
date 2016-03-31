@@ -10,7 +10,8 @@
 - 08/2010-07/2011 Rented in Emsworth
 - 08/2011-04/2013 Rented in Emsworth with Paul
 - 05/2013-09/2014 Rented in Brighton with Adam, Lindsay & Harry
-- 10/2014-~ Renting in London with Adam & Lindsay
+- 10/2014-09/2015 Rented in London with Adam & Lindsay
+- 10/2015-~ Renting in London with Adam
 - 1992-07/1994 Christ The King Primary School
 - 09/1994-06/1999 Bearwood Primary School
 - 09/1999-06/2006 Bournemouth Grammar
@@ -21,5 +22,6 @@
 - 07/2009-02/2013 Worked at Strawberrysoup
 - 03/2013-07/2013 Worked at Brighter People / Kite Consulting
 - 08/2013-06/2014 Worked at Message
-- 07/2014-~ Working at DigitasLBi
+- 07/2014-03/2016 Worked at DigitasLBi
+- ~04/2016 Started contracting as a Software Engineer
 - 12/2014-~ Developing first commerical indie game
