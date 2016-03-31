@@ -23,5 +23,5 @@
 - 03/2013-07/2013 Worked at Brighter People / Kite Consulting
 - 08/2013-06/2014 Worked at Message
 - 07/2014-03/2016 Worked at DigitasLBi
-- ~04/2016 Started contracting as a Software Engineer
+- 04/04/2016 Started contracting as a Software Engineer
 - 12/2014-~ Developing first commerical indie game
